@@ -17,20 +17,8 @@ Optional arguments:
 Example
 ```
 gen_rectangle_mask.py -d "images" -r 0.04 -z
-gen_rectangle_mask.py -d "images" -r 0.04 -a 45 -z
-gen_rectangle_mask.py -d "images" -r 0.04 -a 90 -z
-gen_rectangle_mask.py -d "images" -r 0.04 -a 135 -z
-gen_rectangle_mask.py -d "images" -r 0.1 -z
 gen_rectangle_mask.py -d "images" -r 0.1 -a 45 -z
-gen_rectangle_mask.py -d "images" -r 0.1 -a 90 -z
-gen_rectangle_mask.py -d "images" -r 0.1 -a 135 -z
-gen_rectangle_mask.py -d "images" -r 0.2 -z
-gen_rectangle_mask.py -d "images" -r 0.2 -a 45 -z
 gen_rectangle_mask.py -d "images" -r 0.2 -a 90 -z
-gen_rectangle_mask.py -d "images" -r 0.2 -a 135 -z
-gen_rectangle_mask.py -d "images" -r 0.25 -z
-gen_rectangle_mask.py -d "images" -r 0.25 -a 45 -z
-gen_rectangle_mask.py -d "images" -r 0.25 -a 90 -z
 gen_rectangle_mask.py -d "images" -r 0.25 -a 135 -z
 ```
 
@@ -52,19 +40,7 @@ Optional arguments:
 Example
 ```
 gen_one_centered_rectangle_mask.py -d "images" -r 0.04 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.04 -a 45 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.04 -a 90 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.04 -a 135 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.1 -z
 gen_one_centered_rectangle_mask.py -d "images" -r 0.1 -a 45 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.1 -a 90 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.1 -a 135 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.2 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.2 -a 45 -z
 gen_one_centered_rectangle_mask.py -d "images" -r 0.2 -a 90 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.2 -a 135 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.25 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.25 -a 45 -z
-gen_one_centered_rectangle_mask.py -d "images" -r 0.25 -a 90 -z
 gen_one_centered_rectangle_mask.py -d "images" -r 0.25 -a 135 -z
 ```
