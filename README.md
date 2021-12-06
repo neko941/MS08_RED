@@ -5,8 +5,8 @@
 !python gen_rectangle_mask.py -d <image_directory> -r <mask_to_image_ratio> -a <rotation_angle> -z
 ```
 
-```
 Optional arguments:
+```
   -h, --help       show this help message and exit
   -d , --img_dir   Input ground truth images folder
   -r , --ratio     Input ratio mask to image (0.4 = 40%)
@@ -40,8 +40,8 @@ gen_rectangle_mask.py -d "images" -r 0.25 -a 135 -z
 !python gen_one_centered_rectangle_mask.py -d <image_directory> -r <mask_to_image_ratio> -a <rotation_angle> -z
 ```
 
-```
 Optional arguments:
+```
   -h, --help       show this help message and exit
   -d , --img_dir   Input ground truth images folder
   -r , --ratio     Input ratio mask to image (0.4 = 40%)
